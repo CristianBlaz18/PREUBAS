@@ -1,7 +1,4 @@
 HOLA SOY CRISTIAN
-
 PRUEBA
 safas
-
 Hola soy cristian version 2
->>>>>>> Stashed changes
